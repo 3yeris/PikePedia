@@ -1,0 +1,8 @@
+site_name: PikePedia
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - Coopersville: coopersville.md
+  - Shitknucker: shitknucker.md
+  - Stories: stories.md
